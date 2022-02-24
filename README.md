@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 - 🔭 Working for [Red Hat](https://www.redhat.com) in Austria
+- 🌱 GitHub stastics
 
 [![TOSMI's GitHub stats](https://github-readme-stats.vercel.app/api?username=tosmi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 Language stastics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tosmi&layout=compact&theme=radical?hide=JavaScript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tosmi&layout=compact&theme=radical&hide=JavaScript)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
