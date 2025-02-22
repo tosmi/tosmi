@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🔭 Working for [Red Hat](https://www.redhat.com) in Austria
+- 🇦 [Ansible related repostories](https://github.com/tosmi-ansible)
+- 🦑 [GitOps related repositories](https://github.com/tosmi-gitops)
 - 🌱 GitHub statistics
 
 [![TOSMI's GitHub stats](https://github-readme-stats.vercel.app/api?username=tosmi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
